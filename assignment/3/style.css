@@ -1,0 +1,20 @@
+.hidden {
+  display: none;
+}
+
+h2,
+form {
+  display: block;
+}
+div {
+  display: flex;
+  align-items: center;
+}
+form {
+  margin-bottom: 3px;
+  margin-left: 3px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}

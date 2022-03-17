@@ -46,3 +46,11 @@ body img {
   border-radius: 10px;
   font-size: 20px;
 }
+
+#quote {
+  height: 100%;
+  color: white;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
